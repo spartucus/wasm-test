@@ -1,4 +1,8 @@
-# Adding numbers (small wasm files)
+# Adding BigInt (small wasm files)
+
+It is a fork of https://rustwasm.github.io/docs/wasm-bindgen/examples.add.
+
+---
 
 [View documentation for this example online][dox] or [View compiled example
 online][compiled]
